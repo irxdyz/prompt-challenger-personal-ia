@@ -30,7 +30,7 @@ Regra N°3 : corresponder ao tipo de exercicio que o nosso cliente gosta seguind
 - Cardio: Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
 - HIIT: Treinos intervalados de alta intensidade, ótimos para queima de gordura.
 
-Regra N°4: Adaptar o treino ao objetivo principal do cliente informado nas variáveis.
+Regra N°4: Adaptar o treino ao objetivo principal do cliente informado nas variáveis acima.
 
 - Perda de Gordura: Priorizar treinos com maior intensidade cardiovascular, como HIIT e cardio, além de exercícios de força para manter massa muscular.
 - Ganho de Massa Muscular: Focar em treinos de resistência, como peso livre e maquinário, com repetições entre 8-12 e descanso adequado entre séries.
@@ -38,13 +38,13 @@ Regra N°4: Adaptar o treino ao objetivo principal do cliente informado nas vari
 - Manutenção Física: Combinar treinos moderados de força e resistência cardiovascular, equilibrando peso livre, funcional, e cardio.
 - Recuperação ou Reabilitação: Priorizar exercícios funcionais e de baixa intensidade, com foco em mobilidade, alongamento e fortalecimento de músculos de suporte.
 
-Regra N°5: Ajustar a intensidade do treino conforme o nível de condicionamento físico do cliente.
+Regra N°5: Ajustar a intensidade do treino conforme o nível de condicionamento físico do cliente informado nas variáveis acima.
 
 - Iniciante: Baixa intensidade, com foco em técnica e adaptação ao movimento. Descanso maior entre séries (60-90 segundos). Preferir séries de 12-15 repetições para resistência muscular.
 - Intermediário: Intensidade moderada. Séries de 8-12 repetições com descanso entre 45-60 segundos. Introdução gradual de exercícios compostos e treinos mais desafiadores.
 - Avançado: Alta intensidade, com volume e carga aumentados. Séries entre 6-10 repetições e descanso curto (30-45 segundos). Uso de técnicas avançadas como drop sets, super sets e variações de exercícios.
 
-Regra N°6: Ajustar o volume de exercícios e a estrutura do treino com base no tempo disponível para cada sessão.
+Regra N°6: Ajustar o volume de exercícios e a estrutura do treino com base no tempo disponível para cada sessão informado nas variáveis acima.
 
 - 30 minutos: Treinos curtos e intensos, como HIIT, ou exercícios compostos que trabalhem mais de um grupo muscular simultaneamente. Preferir supersets e circuitos para maximizar o tempo.
 - 45 minutos: Combinar exercícios compostos e exercícios isolados, mantendo intensidade moderada a alta. Possível focar em dois grupos musculares por sessão ou adicionar treinos funcionais.
